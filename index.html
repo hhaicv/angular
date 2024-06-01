@@ -1,0 +1,808 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+
+<!-- Mirrored from htmldemo.net/autima/autima/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Nov 2023 01:21:39 GMT -->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>H2L Mobile</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!-- CSS 
+        
+    
+    ========================= -->
+    <!--bootstrap min css-->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!--owl carousel min css-->
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <!--slick min css-->
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <!--magnific popup min css-->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!--font awesome css-->
+    <link rel="stylesheet" href="assets/css/font.awesome.css">
+    <!--ionicons min css-->
+    <link rel="stylesheet" href="assets/css/ionicons.min.css">
+    <!--animate css-->
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <!--jquery ui min css-->
+    <link rel="stylesheet" href="assets/css/jquery-ui.min.css">
+    <!--slinky menu css-->
+    <link rel="stylesheet" href="assets/css/slinky.menu.css">
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/css/plugins.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!--modernizr min js here-->
+    <script src="assets/js/vendor/modernizr-3.7.1.min.js"></script>
+
+    <script src="angular-1.8.2/angular.min.js"></script>
+
+
+</head>
+
+<body ng-app="client">
+
+    <!-- Main Wrapper Start -->
+    <!--header area start-->
+    <nav style="background-color: #505050;" class="navbar navbar-expand-sm p-0 sticky-top">
+        <div class="container justify-content-between">
+            <a href="index.html">
+                <img style="width: 70px;" src="assets/imagle/A (1).png" alt="">
+            </a>
+            <ul class="navbar-nav">
+                <li class="nav-item px-2 py-2">
+                    <a class="nav-link text-light" href="#!/">Trang Chủ</a>
+                </li>
+                <li class="nav-item px-2 py-2">
+                    <a class="nav-link text-light" href="#!/list">iPhone</a>
+                </li>
+                <li class="nav-item px-2 py-2">
+                    <a class="nav-link text-light" href="#!/list">iPad</a>
+                </li>
+                <li class="nav-item px-2 py-2">
+                    <a class="nav-link text-light" href="#!/list">MacBook</a>
+                </li>
+                <li class="nav-item px-2 py-2">
+                    <a class="nav-link text-light" href="#!/list">Watch</a>
+                </li>
+                <li class="nav-item px-2 py-2">
+                    <a class="nav-link text-light" href="new.html">Tin Tức</a>
+                </li>
+                <li class="nav-item px-2 py-2">
+                    <a class="nav-link text-light" href="contact.html">Liên Hệ</a>
+                </li>
+            </ul>
+            <div>
+                <a href="views/admin/index.html">
+                    <span class="dropdown text-decoration-none">
+                        <button class="btn text-light" type="button">
+                            Tài Khoản
+                        </button>
+                        <!-- <ul class="dropdown-menu mt-3">
+                            <li><button class="dropdown-item" type="button" data-bs-toggle="modal"
+                                    data-bs-target="#staticBackdrop">Đăng Nhập</button></li>
+                            <li><a class="dropdown-item" href="register.html">Đăng Ký</a></li>
+                            <li><a class="dropdown-item" href="#!/manager">Quản Lý</a></li>
+                        </ul> -->
+                    </span>
+                </a>
+
+                <button class="btn text-light position-relative" type="button" data-bs-toggle="offcanvas"
+                    data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling"> <i
+                        class="bi bi-bag-check"></i>
+                    Giỏ Hàng
+                    <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                        4+
+                        <span class="visually-hidden">unread messages</span>
+                    </span>
+                </button>
+            </div>
+        </div>
+        </div>
+    </nav>
+    <!-- Đăng Nhập -->
+    <div class="modal fade p-5" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content p-3">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Đăng Nhập</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <form class="p-3">
+                    <div class="mb-3">
+                        <label for="exampleInputEmail1" class="form-label">Email address</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleInputPassword1" class="form-label">Password</label>
+                        <input type="password" class="form-control" id="exampleInputPassword1">
+                    </div>
+                    <button type="submit" class="btn btn-primary float-end">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- Giỏ Hàng -->
+    <div class="offcanvas offcanvas-end" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1"
+        id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title fs-2" id="offcanvasScrollingLabel"><i class="bi bi-cart4"></i> Giỏ Hàng</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <form action="">
+                <table class="table table-hover table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">Ảnh</th>
+                            <th scope="col">Tên Sản Phẩm</th>
+                            <th scope="col">Giá</th>
+                            <th scope="col">Actice</th>
+                        </tr>
+                    </thead>
+                    <tbody class="table-group-divider">
+                        <tr>
+                            <td><img style="width: 60px; object-fit: cover;" src="assets/imagle/14tim.png" alt=""></td>
+                            <td>iPad Pro M2 11 inch WiFi 128GB</td>
+                            <td>18.990.000₫</td>
+                            <td><button type="button" class="btn-close" aria-label="Close"></button></td>
+                        </tr>
+                        <tr>
+                            <td><img style="width: 60px; object-fit: cover;"
+                                    src="assets/imagle/macbook-pro-14-inch-m3-2023-8gb-ram-10-core-gpu-1tb-ssd_240.jpeg"
+                                    alt=""></td>
+                            <td>MacBook Pro 14 inch M3 2023 (8GB RAM| 1TB SSD) </td>
+                            <td>37.990.000₫</td>
+                            <td><button type="button" class="btn-close" aria-label="Close"></button></td>
+                        </tr>
+                        <tr>
+                            <td><img style="width: 60px; object-fit: cover;" src="assets/imagle/iphone-15-pro.webp"
+                                    alt="">
+                            </td>
+                            <td>iPhone 15 pro 512GB</td>
+                            <td>29.990.000₫</td>
+                            <td><button type="button" class="btn-close" aria-label="Close"></button></td>
+                        </tr>
+                        <tr>
+                            <td><img style="width: 60px; object-fit: cover;"
+                                    src="assets/imagle/0008913_apple-watch-ultra-lte-49mm-alpine-loop-size-s_240.png"
+                                    alt=""></td>
+                            <td>Apple Watch Ultra 2 GPS + Cellular 49mm</td>
+                            <td>20.990.000₫</td>
+                            <td><button type="button" class="btn-close" aria-label="Close"></button></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <a href="cart.html"><input class="btn btn-primary float-end" type="button" value="Đặt Hàng"></a>
+            </form>
+        </div>
+    </div>
+    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="assets/imagle/3.jpeg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/imagle/7.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/imagle/2.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/imagle/8.jpg" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <div class="container my-5" ng-controller="home">
+        <div class="overflow-hidden text-center">
+            <div class="row">
+                <div class="col">
+                    <img style="width: 400px;" src="assets/imagle/icon1.png" alt="">
+                </div>
+                <div class="col">
+                    <img style="width: 400px;" src="assets/imagle/icon2.png" alt="">
+                </div>
+                <div class="col">
+                    <img style="width: 400px;" src="assets/imagle/icon3.png" alt="">
+                </div>
+            </div>
+        </div>
+        <!--banner area end-->
+
+        <!--product area start-->
+        <!-- <section class="product_area mb-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="section_title">
+                            <h2><span> <strong>iPhone</strong></span></h2>
+                        </div>
+                        <div class="product_carousel product_column4 owl-carousel">
+                            <div ng-repeat="p in products">
+                                <div ng-show="p.id_dm==1">
+                                    <div class="single_product">
+
+                                        <div class="product_name">
+                                            <h3><a href="product-details.html">{{p.name}}</a></h3>
+                                        </div>
+                                        <div class="product_thumb">
+                                            <a class="primary_img" href="product-details.html"><img
+                                                    src="/views/imagle/{{p.image}}" alt=""></a>
+
+                                            <div class="label_product">
+                                                <span class="label_sale">-17%</span>
+                                            </div>
+                                        </div>
+                                        <div class="product_content">
+                                            <div class="product_ratings">
+                                                <ul>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product_footer d-flex align-items-center">
+                                                <div class="price_box">
+                                                    <span class="regular_price">14.490.000₫
+                                                    </span>
+                                                </div>
+                                                <div class="add_to_cart">
+                                                    <a href="cart.html" title="add to cart"><span
+                                                            class="lnr lnr-cart"></span></a>
+                                                </div>
+                                            </div>
+                                            <div class="bar_percent">
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <div class="shop_area shop_fullwidth">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <!--shop wrapper start-->
+                        <!--shop toolbar start-->
+                        <div class="shop_title">
+                            <h1>shop</h1>
+                        </div>
+                        <div class="shop_toolbar_wrapper">
+                            <div class="shop_toolbar_btn">
+    
+                                <button data-role="grid_3" type="button" class="active btn-grid-3" data-toggle="tooltip" title="3"></button>
+    
+                                <button data-role="grid_4" type="button" class=" btn-grid-4" data-toggle="tooltip" title="4"></button>
+    
+                                <button data-role="grid_list" type="button" class="btn-list" data-toggle="tooltip" title="List"></button>
+                            </div>
+                            <div class=" niceselect_option">
+    
+                                <form class="select_option" action="#">
+                                    <select name="orderby" id="short">
+    
+                                        <option selected value="1">Sort by average rating</option>
+                                        <option value="2">Sort by popularity</option>
+                                        <option value="3">Sort by newness</option>
+                                        <option value="4">Sort by price: low to high</option>
+                                        <option value="5">Sort by price: high to low</option>
+                                        <option value="6">Product Name: Z</option>
+                                    </select>
+                                </form>
+    
+    
+                            </div>
+                            <div class="page_amount">
+                                <p>Showing 1–9 of 21 results</p>
+                            </div>
+                        </div>
+                        <!--shop toolbar end-->
+    
+                        <div class="row shop_wrapper">
+                            <div class="col-lg-3 col-md-4 col-12 " ng-repeat="p in products">
+                                <div class="single_product">
+                                    <div class="product_name grid_name">
+                                        <h3><a href="product-details.html">{{p.name}}</a></h3>
+                                        <p class="manufacture_product"><a href="#">Accessories</a></p>
+                                    </div>
+                                    <div class="product_thumb">
+                                        <a class="primary_img" href="product-details.html"><img style="width: 225px; height: 256px; object-fit: cover;" src="/views/imagle/{{p.image}}" alt=""></a>
+                                        <!-- <a class="secondary_img" href="product-details.html"><img src="assets/img/product/product11.jpg" alt=""></a> -->
+                                        <div class="label_product">
+                                            <span class="label_sale">-47%</span>
+                                        </div>
+                                        <div class="action_links">
+                                            <ul>
+                                                <li class="quick_button"><a href="#" data-bs-toggle="modal" data-bs-target="#modal_box" title="quick view"> <span class="lnr lnr-magnifier"></span></a></li>
+                                                <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a></li>
+                                                <li class="compare"><a href="compare.html" title="compare"><span class="lnr lnr-sync"></span></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="product_content grid_content">
+                                        <div class="content_inner">
+                                            <div class="product_ratings">
+                                                <ul>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product_footer d-flex align-items-center">
+                                                <div class="price_box">
+                                                    <span class="current_price">{{p.price}}</span>
+                                                    <span class="old_price">{{p.price_sale}}</span>
+                                                </div>
+                                                <div class="add_to_cart">
+                                                    <a href="cart.html" title="add to cart"><span class="lnr lnr-cart"></span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="product_content list_content">
+                                        <div class="left_caption">
+                                            <div class="product_name">
+                                                <h3><a href="product-details.html">Cas Meque Metus Shoes Core i7 3.4GHz, 16GB DDR3</a></h3>
+                                            </div>
+                                            <div class="product_ratings">
+                                                <ul>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                    <li><a href="#"><i class="ion-star"></i></a></li>
+                                                </ul>
+                                            </div>
+    
+                                            <div class="product_desc">
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis ad, iure incidunt. Ab consequatur temporibus non eveniet inventore doloremque necessitatibus sed, ducimus quisquam, ad asperiores </p>
+                                            </div>
+                                        </div>
+                                        <div class="right_caption">
+                                            <div class="text_available">
+                                                <p>availabe: <span>99 in stock</span></p>
+                                            </div>
+                                            <div class="price_box">
+                                                <span class="current_price">$160.00</span>
+                                                <span class="old_price">$420.00</span>
+                                            </div>
+                                            <div class="cart_links_btn">
+                                                <a href="#" title="add to cart">add to cart</a>
+                                            </div>
+                                            <div class="action_links_btn">
+                                                <ul>
+                                                    <li class="quick_button"><a href="#" data-bs-toggle="modal" data-bs-target="#modal_box" title="quick view"> <span class="lnr lnr-magnifier"></span></a></li>
+                                                    <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><span class="lnr lnr-heart"></span></a></li>
+                                                    <li class="compare"><a href="compare.html" title="compare"><span class="lnr lnr-sync"></span></a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                        </div>
+    
+                       
+                     
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="my-5">
+            <img style="width: 1300px;" src="assets/imagle/9.jpeg" alt="">
+        </div>
+        <!--brand area start-->
+        <div class="brand_area mb-42">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="brand_container owl-carousel">
+                            <div class="single_brand">
+                                <a href="#"><img src="assets/img/brand/brand.png" alt=""></a>
+                            </div>
+                            <div class="single_brand">
+                                <a href="#"><img src="assets/img/brand/brand1.png" alt=""></a>
+                            </div>
+                            <div class="single_brand">
+                                <a href="#"><img src="assets/img/brand/brand2.png" alt=""></a>
+                            </div>
+                            <div class="single_brand">
+                                <a href="#"><img src="assets/img/brand/brand3.png" alt=""></a>
+                            </div>
+                            <div class="single_brand">
+                                <a href="#"><img src="assets/img/brand/brand4.png" alt=""></a>
+                            </div>
+                            <div class="single_brand">
+                                <a href="#"><img src="assets/img/brand/brand2.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--brand area end-->
+
+        <!--blog area start-->
+        <section class="blog_section mb-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="section_title">
+                            <h2><span> <strong>Tin</strong>Tức</span></h2>
+                        </div>
+                        <div class="container px-4 text-center">
+                            <div class="row gx-5">
+                                <div class="col p-0">
+                                    <div class="card-new">
+                                        <img src="assets/imagle/t1.png" class="card-img-top rounded-top" alt="...">
+                                        <div class="card-body p-4 text-start">
+                                            <h5 class="card-title">THANH TOÁN QUA KREDIVO, GIẢM ĐẾN 1 TRIỆU ĐỒNG </h5>
+                                            <p class="card-text fs-6 py-2">29/01/2024</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col px-4">
+                                    <div class="card-new">
+                                        <img src="assets/imagle/t2.png" class="card-img-top rounded-top" alt="...">
+                                        <div class="card-body p-4 text-start">
+                                            <h5 class="card-title">SẮM LIỀN TÁO XINH - RINH VOUCHER WATCH XỊN CHỈ CÓ TẠI
+                                                SHOPDUNK
+                                            </h5>
+                                            <p class="card-text fs-6 py-2">23/02/2024
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col p-0">
+                                    <div class="card-new">
+                                        <img src="assets/imagle/t3.png" class="card-img-top rounded-top" alt="...">
+                                        <div class="card-body p-4 text-start">
+                                            <h5 class="card-title">THÁNG YÊU HOÀN HẢO - DEAL NGON KHUẤY ĐẢO</h5>
+                                            <p class="card-text fs-6 py-2">01/03/2024</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!--call to action start-->
+    <section class="call_to_action">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="call_action_inner">
+                        <div class="call_text">
+                            <h3>Chúng tôi <span>Có đề xuất </span> cho bạn </h3>
+                            <p>Giảm tới 30% khi bạn chi 2.000.000đ khi nhập mã H2L Mobile</p>
+                        </div>
+                        <div class="discover_now">
+                            <a href="#">Khám phá ngay bây giờ</a>
+                        </div>
+                        <div class="link_follow">
+                            <ul>
+                                <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                                <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                                <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                                <li><a href="#"><i class="ion-social-youtube"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--call to action end-->
+
+    <!--footer area start-->
+    <footer class="footer_widgets">
+        <div class="container">
+            <div class="footer_top">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="widgets_container contact_us">
+                            <div class="footer_logo">
+                                <a href="#"><img src="assets/img/logo/logo.png" alt=""></a>
+                            </div>
+                            <div class="footer_contact">
+                                <p>Chúng tôi là một nhóm thiết kế sáng tạo ra trang Web này, phục vụ khách hàng một
+                                    cách
+                                    chuyên nghiệp và chất lượng nhất...
+                                </p>
+                                <p><span>Địa chỉ</span>Trường Cao Đẳng FPT Polytechnic - Trịnh Văn Bô - Nam Từ Liêm
+                                    - Hà
+                                    Nội </p>
+                                <p><span>Cần giúp đỡ?</span>Gọi: <a href="tel:84+">03434433434</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="widgets_container widget_menu">
+                            <h3>Thông tin</h3>
+                            <div class="footer_menu">
+                                <ul>
+                                    <li><a href="about.html">Về chúng tôi</a></li>
+                                    <li><a href="#">Thông tin giao hàng</a></li>
+                                    <li><a href="privacy-policy.html">Chính sách bảo mật</a></li>
+                                    <li><a href="coming-soon.html">Sắp ra mắt</a></li>
+                                    <li><a href="#">Điều khoản & điều kiện</a></li>
+                                    <li><a href="#">Trả lại</a></li>
+                                    <li><a href="#">Phiếu quà tặng</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-6">
+                        <div class="widgets_container widget_menu">
+                            <h3>Tiện ích bổ sung</h3>
+                            <div class="footer_menu">
+                                <ul>
+                                    <li><a href="#">Liên kết</a></li>
+                                    <li><a href="#">Trả lại</a></li>
+                                    <li><a href="wishlist.html">Lịch sử đơn hàng</a></li>
+                                    <li><a href="#">Bảng tin</a></li>
+                                    <li><a href="#">Khuyến mại</a></li>
+                                    <li><a href="#">Danh sách mong muốn </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="widgets_container">
+                            <h3>Đăng kí nhận bản tin </h3>
+                            <p>Chúng tôi sẽ không bao giờ chia sẻ địa chỉ Email của bạn cho bên thứ 3.</p>
+                            <div class="subscribe_form">
+                                <form id="mc-form" class="mc-form footer-newsletter">
+                                    <input id="mc-email" type="email" autocomplete="off"
+                                        placeholder="Nhập địa chỉ Email của bạn vào đây..." />
+                                    <button id="mc-submit">Đặt mua</button>
+                                </form>
+                                <!-- mailchimp-alerts Start -->
+                                <div class="mailchimp-alerts text-centre">
+                                    <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
+                                    <div class="mailchimp-success"></div><!-- mailchimp-success end -->
+                                    <div class="mailchimp-error"></div><!-- mailchimp-error end -->
+                                </div><!-- mailchimp-alerts end -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_bottom">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6">
+                        <div class="copyright_area">
+                            <p>Copyright &copy; 2021 <a href="#">H2l Mobile</a> All Right Reserved.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="footer_payment text-right">
+                            <a href="#"><img src="assets/img/icon/payment.png" alt=""></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--footer area end-->
+
+
+    <!-- modal area start-->
+    <div class="modal fade" id="modal_box" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div class="modal_body">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-5 col-md-5 col-sm-12">
+                                <div class="modal_tab">
+                                    <div class="tab-content product-details-large">
+                                        <div class="tab-pane fade show active" id="tab1" role="tabpanel">
+                                            <div class="modal_tab_img">
+                                                <a href="#"><img src="assets/img/product/product1.jpg" alt=""></a>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="tab2" role="tabpanel">
+                                            <div class="modal_tab_img">
+                                                <a href="#"><img src="assets/img/product/product2.jpg" alt=""></a>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="tab3" role="tabpanel">
+                                            <div class="modal_tab_img">
+                                                <a href="#"><img src="assets/img/product/product3.jpg" alt=""></a>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="tab4" role="tabpanel">
+                                            <div class="modal_tab_img">
+                                                <a href="#"><img src="assets/img/product/product5.jpg" alt=""></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="modal_tab_button">
+                                        <ul class="nav product_navactive owl-carousel" role="tablist">
+                                            <li>
+                                                <a class="nav-link active" data-toggle="tab" href="#tab1" role="tab"
+                                                    aria-controls="tab1" aria-selected="false"><img
+                                                        src="assets/img/product/product1.jpg" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" data-toggle="tab" href="#tab2" role="tab"
+                                                    aria-controls="tab2" aria-selected="false"><img
+                                                        src="assets/img/product/product2.jpg" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link button_three" data-toggle="tab" href="#tab3"
+                                                    role="tab" aria-controls="tab3" aria-selected="false"><img
+                                                        src="assets/img/product/product3.jpg" alt=""></a>
+                                            </li>
+                                            <li>
+                                                <a class="nav-link" data-toggle="tab" href="#tab4" role="tab"
+                                                    aria-controls="tab4" aria-selected="false"><img
+                                                        src="assets/img/product/product5.jpg" alt=""></a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-7 col-sm-12">
+                                <div class="modal_right">
+                                    <div class="modal_title mb-10">
+                                        <h2>Handbag feugiat</h2>
+                                    </div>
+                                    <div class="modal_price mb-10">
+                                        <span class="new_price">$64.99</span>
+                                        <span class="old_price">$78.99</span>
+                                    </div>
+                                    <div class="modal_description mb-15">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia iste
+                                            laborum ad impedit pariatur esse optio tempora sint ullam autem deleniti
+                                            nam
+                                            in quos qui nemo ipsum numquam, reiciendis maiores quidem aperiam, rerum
+                                            vel
+                                            recusandae </p>
+                                    </div>
+                                    <div class="variants_selects">
+                                        <div class="variants_size">
+                                            <h2>size</h2>
+                                            <select class="select_option">
+                                                <option selected value="1">s</option>
+                                                <option value="1">m</option>
+                                                <option value="1">l</option>
+                                                <option value="1">xl</option>
+                                                <option value="1">xxl</option>
+                                            </select>
+                                        </div>
+                                        <div class="variants_color">
+                                            <h2>color</h2>
+                                            <select class="select_option">
+                                                <option selected value="1">purple</option>
+                                                <option value="1">violet</option>
+                                                <option value="1">black</option>
+                                                <option value="1">pink</option>
+                                                <option value="1">orange</option>
+                                            </select>
+                                        </div>
+                                        <div class="modal_add_to_cart">
+                                            <form action="#">
+                                                <input min="1" max="100" step="2" value="1" type="number">
+                                                <button type="submit">add to cart</button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                    <div class="modal_social">
+                                        <h2>Share this product</h2>
+                                        <ul>
+                                            <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                            <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                            <li class="pinterest"><a href="#"><i class="fa fa-pinterest"></i></a>
+                                            </li>
+                                            <li class="google-plus"><a href="#"><i class="fa fa-google-plus"></i></a>
+                                            </li>
+                                            <li class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- modal area end-->
+
+
+    <!-- JS
+============================================ -->
+    <!--jquery min js-->
+    <script src="assets/js/vendor/jquery-3.4.1.min.js"></script>
+    <!--popper min js-->
+    <script src="assets/js/popper.js"></script>
+    <!--bootstrap min js-->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!--owl carousel min js-->
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <!--slick min js-->
+    <script src="assets/js/slick.min.js"></script>
+    <!--magnific popup min js-->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!--jquery countdown min js-->
+    <script src="assets/js/jquery.countdown.js"></script>
+    <!--jquery ui min js-->
+    <script src="assets/js/jquery.ui.js"></script>
+    <!--jquery elevatezoom min js-->
+    <script src="assets/js/jquery.elevatezoom.js"></script>
+    <!--isotope packaged min js-->
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <!--slinky menu js-->
+    <script src="assets/js/slinky.menu.js"></script>
+    <!-- Plugins JS -->
+    <script src="assets/js/plugins.js"></script>
+
+    <!-- Main JS -->
+    <script src="assets/js/main.js"></script>
+    <script>
+        var app = angular.module('client', []); // khởi tạo angular module
+        app.controller('home', function ($scope, $http, $location) {
+            var apiUrl = 'http://localhost:3000/products';
+            // khai báo hàm
+            $http.get(apiUrl).then(function ($response) {
+                // kiểm tra 
+
+                $scope.products = $response.data;
+                console.log($scope.products);
+            })
+        });
+    </script>
+
+</body>
+
+
+<!-- Mirrored from htmldemo.net/autima/autima/index-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 18 Nov 2023 01:22:03 GMT -->
+
+</html>

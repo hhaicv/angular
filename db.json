@@ -1,0 +1,222 @@
+{
+  "products": [
+    {
+      "name": "MacBook Pro 14 inch M3",
+      "descrition": "Chip M3 trên phiên bản MacBook Pro M3 14 inch 512GB và  được trang bị 8 lõi CPU tương tự như thế hệ tiền nhiệm. Tuy nhiên,  Với công nghệ 3nm, chip M3 sở hữu 25 tỷ bóng bán dẫn (tăng 5 tỷ so với dòng tiền nhiệm M2). Do đó, hiệu suất CPU của chip M3 đã được cải thiện đáng kể khi 4 lõi hiệu suất cao mang đến khả năng xử lý nhanh hơn 15% và 4 lõi tiết kiệm điện đem lại tốc độ nhanh hơn 30% so với thế hệ M2.",
+      "price": "37.650.000đ",
+      "price_sale": "38.650.000đ",
+      "image": "MacBook Pro 14 inch M3 2023.jpeg",
+      "gb": "512GB",
+      "id_dm": "3",
+      "id": "bd1c"
+    },
+    {
+      "id": "17da",
+      "name": "iPhone 15 Pro Max 256GB",
+      "price": "29.790.000đ",
+      "price_sale": "32.790.000đ",
+      "image": "iphone-15-pro-blue.jpeg",
+      "gb": "256GB",
+      "id_dm": "1",
+      "descrition": "Màn hình\t\nMàn hình Super Retina XDR\nMàn hình toàn phần OLED 6,7 inch (theo đường chéo)\nMàn hình iPhone 15 Pro Max có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình theo đường chéo là 6,69 inch (diện tích hiển thị thực tế nhỏ hơn).\nDynamic Island\nMàn hình Luôn Bật\nCông nghệ ProMotion với tốc độ làm mới thích ứng lên đến 120Hz\nMàn hình HDR\nTrue Tone\nDải màu rộng (P3)\nHaptic Touch\nTỷ lệ tương phản 2.000.000:1 (tiêu chuẩn)\nĐộ sáng tối đa 1.000 nit (tiêu chuẩn); độ sáng đỉnh 1.600 nit (HDR); độ sáng đỉnh 2.000 nit (ngoài trời)\nLớp phủ kháng dầu chống in dấu vân tay\nHỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự\nĐộ phân giải màn hình\t\nĐộ phân giải 2796x1290 pixel với mật độ điểm ảnh 460 ppi\n\nChống nước - Chống bụi\t\nĐạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529\n\nChip\t\nChip A17 Pro\nCPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện\nGPU 6 lõi mới\nNeural Engine 16 lõi mới"
+    },
+    {
+      "id": "953f",
+      "name": "iPhone 15 Pro Max 512GB",
+      "price": "37.350.000đ",
+      "price_sale": "43.990.000đ",
+      "image": "iphone-15-pro-titan.jpeg",
+      "gb": "512GB",
+      "id_dm": "1",
+      "descrition": "Màn hình\t\nMàn hình Super Retina XDR\nMàn hình toàn phần OLED 6,7 inch (theo đường chéo)\nMàn hình iPhone 15 Pro Max có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình theo đường chéo là 6,69 inch (diện tích hiển thị thực tế nhỏ hơn).\nDynamic Island\nMàn hình Luôn Bật\nCông nghệ ProMotion với tốc độ làm mới thích ứng lên đến 120Hz\nMàn hình HDR\nTrue Tone\nDải màu rộng (P3)\nHaptic Touch\nTỷ lệ tương phản 2.000.000:1 (tiêu chuẩn)\nĐộ sáng tối đa 1.000 nit (tiêu chuẩn); độ sáng đỉnh 1.600 nit (HDR); độ sáng đỉnh 2.000 nit (ngoài trời)\nLớp phủ kháng dầu chống in dấu vân tay\nHỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự\nĐộ phân giải màn hình\t\nĐộ phân giải 2796x1290 pixel với mật độ điểm ảnh 460 ppi\n\nChống nước - Chống bụi\t\nĐạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529\n\nChip\t\nChip A17 Pro\nCPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện\nGPU 6 lõi mới\nNeural Engine 16 lõi mới"
+    },
+    {
+      "id": "544c",
+      "image": "iphone-15-hong.png",
+      "name": "iPhone 15 128GB",
+      "price": "19.990.000đ",
+      "price_sale": "24.990.000đ",
+      "gb": "128GB",
+      "id_dm": "1",
+      "descrition": "Quay video\t\nQuay video 4K ở tốc độ 24 fps, 25 fps, 30 fps, hoặc 60 fps\nQuay video HD 1080p ở tốc độ 25 fps, 30 fps, hoặc 60 fps\nChế độ Điện Ảnh để quay video với độ sâu trường ảnh nông (lên đến 4K HDR ở tốc độ 30 fps)\nChế độ Hành Động\nQuay video HDR với công nghệ Dolby Vision lên đến 4K ở tốc độ 60 fps\nHỗ trợ quay video chậm 1080p ở tốc độ 120 fps hoặc 240 fps\nVideo tua nhanh có chống rung\nTua nhanh ở chế độ Ban Đêm\nChế độ quay video QuickTake\nChống rung quang học dịch chuyển cảm biến cho video\nPhóng đại âm thanh\nThu âm stereo\n \nMàu sắc\t\nHồng\nVàng\nXanh lá\nXanh Dương\nĐen\nDung lượng\t\n128GB\n256GB\n512GB\nKết nối\t\nMạng di động: Hỗ trợ 5G\nSIM: Đang cập nhật\nWifi: 6 GHz, Wi-Fi 802.11 a/b/g/n/ac/ax, Wi-Fi MIMO\nGPS: BEIDOU, GALILEO, GLONASS, A-GPS, QZSS\nBluetooth: v5.3\nCổng kết nối/sạc: USB Type-C 2.0\nJack tai nghe: Type-C\nKích thước và Trọng lượng\t\nDài: 147,6 mm\nRộng: 71,6 mm\nDày: 7,80 mm\nTrọng Lượng: 171 gram\nĐộ phân giải màn hình\t\n2556 x 1179 Pixels\n\nChống nước - Chống bụi\t\nĐạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529\n\nChip\t\nCPU : Apple A16 Bionic 6 nhân\nTốc độ CPU: 3.46 GHz\nChip đồ họa (GPU): Apple GPU 5 nhân\nPin và nguồn điện\t\nDung lượng pin: Đang cập nhật\nLoại pin: Li-Ion\nHỗ trợ sạc tối đa: Đang cập nhật\nSạc kèm theo máy: Đang cập nhật\nCông nghệ pin:\nSạc không dây\nSạc không dây MagSafe\nCamera sau\t\nChính 48 MP & Phụ 12 MP\nBảo mật\t\nFace ID\nCamera trước TrueDepth hỗ trợ nhận diện khuôn mặt\nKết nối mạng\t\nGSM/EDGE\nUMTS/HSPA+\nDC-HSDPA\n5G (sub-6 GHz) với 4x4 MIMO\nLTE Gigabit\nWi‑Fi 6\nBluetooth 5.3\nChip Ultra Wideband thế hệ thứ 2\nGPS, GLONASS, Galileo, QZSS và BeiDou\nNFC có chế độ đọc\nCuộc Gọi Wi-Fi\nThẻ Truy Cập Nhanh với chế độ dự trữ năng lượng\nRAM\t\n6GB\n\nCamera trước\t\nĐộ phân giải : 12 MP\n\nCông nghệ màn hình\t\nSuper Retina XDR OLED\n\nTính năng màn hình: \n\nDynamic Island\nHDR display\nTrue Tone\nWide color (P3)\nHaptic Touch\nLớp phủ oleophobia chống dấu vân tay\nĐộ sáng tối đa: 2000 nits"
+    },
+    {
+      "id": "b7e7",
+      "image": "iphone-15-plus-xanh.jpeg",
+      "name": "iPhone 15 Plus 128GB",
+      "price": "22.890.000đ",
+      "price_sale": "27.990.000đ",
+      "gb": "128GB",
+      "id_dm": "1",
+      "descrition": "Độ phân giải màn hình\t\n2796x1290 pixel\n\nCamera sau\t\nChính 48 MP & Phụ 12 MP\nChip\t\nChip A16 Bionic\nCPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện\nGPU 5 lõi\nNeural Engine 16 lõi\n \nKết nối\t\nMạng di động: Hỗ trợ 5G\nSIM: sim kép (nano sim và esim)\nWifi: 6 GHz, Wi-Fi 802.11 a/b/g/n/ac/ax, Wi-Fi MIMO\nGPS: BEIDOU, GALILEO, GLONASS, A-GPS, QZSS\nBluetooth: v5.3\nCổng kết nối/sạc: USB Type-C 2.0\nJack tai nghe: Type-C\n\nRAM\t\n6GB LPDDR5\n\nBảo mật\t\nFace ID\nCamera trước TrueDepth hỗ trợ nhận diện khuôn mặt\nChống nước - Chống bụi\t\nĐạt mức IP68 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút) theo tiêu chuẩn IEC 60529\n\nPin và nguồn điện\t\nDung lượng pin: Đang cập nhật\nLoại pin: Li-Ion\nSạc không dây MagSafe và Qi\nKhả năng sạc nhanh: Sạc lên đến 50% trong vòng 35 phút với bộ tiếp hợp nguồn 20W trở lên\nMàu sắc\t\nHồng (Pink)\nVàng (Yellow)\nXanh lá (Green)\nXanh dương (Blue)\nĐen (Black)\nQuay video\t\nQuay video 4K ở tốc độ 24 fps, 25 fps, 30 fps, hoặc 60 fps\nQuay video HD 1080p ở tốc độ 25 fps, 30 fps, hoặc 60 fps\nChế độ Điện Ảnh để quay video vớiđộ sâu trường ảnh nông (lên đến 4K HDR ở tốc độ 30 fps)\nChế độ Hành Động\nQuay video HDR với công nghệ Dolby Vision lên đến 4K ở tốc độ 60 fps\nHỗ trợ quay video chậm 1080p ở tốc độ 120 fps hoặc 240 fps\nVideo tua nhanh có chống rung\nTua nhanh ở chế độ Ban Đêm\nChế độ quay video QuickTake\nChống rung quang học dịch chuyển cảm biến cho video\nPhóng đại âm thanh\nThu âm stereo\n \nDung lượng\t\n128GB\n256GB\n512GB\nCamera trước\t\nĐộ phân giải : 12 MP\n\nCông nghệ màn hình\t\nSuper Retina XDR OLED\n\nTính năng màn hình: \n\nDynamic Island\nHDR display\nTrue Tone\nWide color (P3)"
+    },
+    {
+      "id": "904b",
+      "name": "iPhone 13",
+      "image": "iphone-13-xanh.png",
+      "price": "13.990.000đ",
+      "price_sale": "24.990.000đ",
+      "gb": "128GB",
+      "id_dm": "1",
+      "descrition": "Công nghệ màn hình:\tOLED\nĐộ phân giải màn hình\t1170 x 2532 Pixels\nKích thước màn hình:\t6.1\" - Tần số quét 60 Hz\nChất liệu mặt:\tKính cường lực Ceramic Shield\nBộ nhớ trong:\t\nRAM:\n4 GB\nDung lượng lưu trữ:\n512 GB\nDung lượng còn lại (khả dụng) khoảng:\n497 GB\nDanh bạ:\nKhông giới hạn\n \nTiện ích khác:\t\nBảo mật nâng cao:\nMở khoá khuôn mặt Face ID\nKháng nước, bụi:\nIP68\nGhi âm:\nCó (microphone chuyên dụng chống ồn)\nXem phim:\nH.264(MPEG4-AVC)\nNghe nhạc:\nAACFLACMP3\n, \nThiết kế:\nNguyên khối\nChất liệu:\nKhung nhôm & Mặt lưng kính cường lực\nKích thước, khối lượng:\nDài 146.7 mm - Ngang 71.5 mm - Dày 7.65 mm - Nặng 174 g\nThời điểm ra mắt:\n09/2021\nDung lượng\t\nĐộ phân giải:\n2 camera 12 MP\nQuay phim:\n4K 2160p@24fps4K 2160p@30fps4K 2160p@60fpsFullHD 1080p@120fpsFullHD 1080p@240fpsFullHD 1080p@30fpsFullHD 1080p@60fpsHD 720p@30fps\nĐèn Flash:\nCó\nTính năng:\nBan đêm (Night Mode)Chạm lấy nétChống rung quang học (OIS)CinematicDeep FusionDolby Vision HDRGóc rộng (Wide)Góc siêu rộng (Ultrawide)Nhận diện khuôn mặtQuay chậm (Slow Motion)Smart HDR 4Toàn cảnh (Panorama)Trôi nhanh thời gian (Time Lapse)Tự động lấy nét (AF)Xóa phôngZoom kỹ thuật sốZoom quang học\nKết nối\t\nMạng di động:\nHỗ trợ 5G\nSIM:\n1 Nano SIM & 1 eSIM\nWifi:\nDual-band (2.4 GHz/5 GHz)Wi-Fi 802.11 a/b/g/n/ac/axWi-Fi hotspotWi-Fi MIMO\nGPS:\nBEIDOUGALILEOGLONASSA-GPSiBeaconQZSS\nBluetooth:\nA2DPLEv5.0\nCổng kết nối/sạc:\nLightning\nJack tai nghe:\nLightning\nKết nối khác:\nNFC"
+    },
+    {
+      "id": "7936",
+      "image": "ipad-mini-6.jpeg",
+      "name": "iPad mini 6 | 256GB",
+      "price": "15.690.000đ",
+      "price_sale": "19.990.000đ",
+      "gb": "256GB",
+      "id_dm": "2",
+      "descrition": "iPad mini 6 (2021) iPad mini mới. Thiết kế màn hình toàn phần với màn hình Liquid Retina 8.3 inch. Chip A15 Bionic mạnh mẽ với Neural Engine. Camera trước Ultra Wide 12MP với tính năng Trung Tâm Màn Hình. Cổng kết nối USB-C. Mạng 5G siêu nhanh. Ghi chú, đánh dấu tài liệu hoặc phác thảo ngay khi những ý tưởng lớn xuất hiện trong đầu với Apple Pencil (thế hệ thứ 2) có khả năng gắn kết bằng nam châm và sạc không dây.\n\nTính năng nổi bật\n\nMàn hình Liquid Retina 8.3 inch tuyệt đẹp với True Tone và dải màu rộng\nChip A15 Bionic với Neural Engine\nXác thực bảo mật với Touch ID\nCamera sau Wide 12MP, camera trước Ultra Wide 12MP với tính năng Trung Tâm Màn Hình\nHiện có các màu tím, ánh sao, hồng và xám bạc\nLoa stereo ở cạnh trên và cạnh dưới \nMạng 5G cho tốc độ tải xuống, xem video và nghe nhạc trực tuyến nhanh như chớp\nLuôn kết nối với Wi-Fi 6 siêu nhanh\nThời lượng pin lên tới 10 giờ\nCổng kết nối USB-C để sạc và kết nối phụ kiện\nTương thích với Apple Pencil (thế hệ thứ 2)\niPadOS 15 sở hữu sức mạnh độc đáo, dễ sử dụng và được thiết kế cho tính đa năng của iPad"
+    },
+    {
+      "name": "iPad Pro M2 11 inch",
+      "descrition": "Hệ điều hành & CPU\t\nHệ điều hành:\n\niPadOS 16\nChip xử lý (CPU):\n\nApple M2 8 nhân\nTốc độ CPU:\nHãng không công bố\nChip đồ hoạ (GPU):\n\nApple GPU 10 nhân\nKết nối:\t\nMạng di động:\n\nHỗ trợ 5G\nSIM:\n\n1 Nano SIM hoặc 1 eSIM\nThực hiện cuộc gọi:\n\nFaceTime\nWifi:\n\nDual-band\n\nWi-Fi 802.11 a/b/g/n/ac/ax\n\nMIMO\n\nGPS:\n\nGPSiBeacon\nBluetooth:\n\nv5.3\nCổng kết nối/sạc:\n\nType-C\nJack tai nghe:\n\nType C\nKết nối khác:\n\nKhông có\nTiện ích đặc biệt:\t\nTính năng đặc biệt:\n\nÂm thanh Dolby Atmos\n\nKết nối bàn phím rời\n\nMở khóa bằng khuôn mặt (Face ID)\n\nKết nối Apple Pencil 2\n\nDolby Vision\n\n4 loa\n\nGhi âm:\n\nCó\nRadio:\n\nKhông có\nTiện ích khác:\t\nChất liệu:\n\nKim loại nguyên khối\nKích thước, khối lượng:\n\nDài 247.6 mm - Ngang 178.5 mm - Dày 5.9 mm - Nặng 470 g\nThời điểm ra mắt:\n\n10/2022\nCamera sau\t\nĐộ phân giải:\n\nChính 12 MP & Phụ 10 MP, TOF 3D LiDAR\nQuay phim:\n\n4K 2160p@30fps\n\nFullHD 1080p@30fps\n\nHD 720p@30fps\n\n4K 2160p@24fps\n\n4K 2160p@60fps\n\nFullHD 1080p@60fps\n\n4K 2160p@25fps\n\nFullHD 1080p@25fps\n\nTính năng:\n\nBộ lọc màu\n\nChống rung OIS\n\nQuay chậm (Slow Motion)\n\nChế độ điện ảnh\n\nSmart HDR 4\n\nTự động lấy nét (AF)\n\nToàn cảnh (Panorama)\n\nGắn thẻ địa lý\n\nGóc siêu rộng\n\nZoom quang học\n\nZoom kỹ thuật số\n\nTua nhanh thời gian (Time‑lapse)\n\nCamera trước\t\nĐộ phân giải:\n\n12 MP\nTính năng:\n\nTrôi nhanh thời gian (Time Lapse)\n\nChế độ điện ảnh\n\nSmart HDR 4\n\nQuay video Full HD\n\nQuay video HD\n\nLive Photos\n\nBộ lọc màu\n\nXóa phông\n\nPin\t\nDung lượng pin:\n28.65 Wh (~ 7538 mAh)\nLoại pin:\n\nLi-Po\nCông nghệ pin:\n\nSạc pin nhanh\nTiết kiệm pin\nHỗ trợ sạc tối đa:\n\n20 W\nSạc kèm theo máy:\n\n20 W\nCông nghệ màn hình\t\nCông nghệ màn hình:\n\nLiquid Retina\nĐộ phân giải:\n\n1668 x 2388 Pixels\nMàn hình rộng:\n\n11\" - Tần số quét 120 Hz",
+      "price": "23.890.000đ",
+      "price_sale": "27.990.000đ",
+      "image": "ipad-pro-m2.jpeg",
+      "gb": "128GB",
+      "id_dm": "2",
+      "id": "7960"
+    },
+    {
+      "name": "iPad Pro M1 12.9 inch",
+      "descrition": "iPad Pro 12.9 inch (2021) Chiếc iPad đỉnh cao với chip Apple M1 siêu mạnh, màn hình Liquid Retina XDR 12.9 inch sống động, kết nối không dây siêu nhanh. Thắt dây an toàn vào đi nào.\n\nTính năng nổi bật\n\nChip Apple  nâng hiệu suất lên một đẳng cấp mới\nMàn hình Liquid Retina XDR 12.9 inch lộng lẫy với ProMotion, True Tone và dải màu rộng P3\nHệ thống camera TrueDepth với camera trước Ultra Wide tích hợp tính năng Trung Tâm Sân Khấu\nCamera Wide 12MP, camera Ultra Wide 10MP và LiDAR Scanner cho trải nghiệm thực tế ảo tăng cường sống động\nLuôn kết nối với Wi-Fi 6 siêu nhanh và mạng LTE\nLàm được nhiều việc hơn với thời lượng pin bền bỉ cả ngày\nCổng Thunderbolt cho kết nối nhanh với bộ nhớ ngoài, màn hình và dock\nXác thực bảo mật với Face ID\nBốn loa âm thanh và năm micro chuẩn studio\nHỗ trợ Apple Pencil (thế hệ thứ 2), Magic Keyboard và Smart Keyboard Folio \niPadOS mạnh mẽ, trực quan và được thiết kế riêng cho iPad\nHơn 1 triệu ứng dụng trên App Store dành riêng cho iPad",
+      "price": "32.990.000đ",
+      "price_sale": "42.990.000đ",
+      "image": "ipad-pro-m1.webp",
+      "gb": "512GB",
+      "id_dm": "2",
+      "id": "b699"
+    },
+    {
+      "name": "iPad Gen 10 th 10.9",
+      "descrition": "Hệ điều hành & CPU\t\nHệ điều hành:\niPadOS 16\n\nChip xử lý (CPU):\nApple A14 Bionic 6 nhân\nTốc độ CPU:\n2 nhân 3.1 GHz & 4 nhân 1.8 GHz\nChip đồ hoạ (GPU):\nApple GPU 4 nhân\nBộ nhớ trong:\t\nRAM:\n4 GB\nDung lượng lưu trữ:\n64 GB\nThẻ nhớ ngoài:\nKhông có\nKết nối:\t\nMạng di động:\n\nKhông có \nSIM:\n\nKhông có\nThực hiện cuộc gọi:\n\nFaceTime\nWifi:\n\nWi-Fi hotspot\n\nWi-Fi 802.11 a/b/g/n/ac/ax\n\nMIMO\n\nDual-band\n\nGPS:\n\nGPS\niBeacon\nBluetooth:\n\nv5.2\nCổng kết nối/sạc:\n\nType-C\nJack tai nghe:\n\nType C\nKết nối khác:\n\nKhông có\nTiện ích đặc biệt:\t\nTính năng đặc biệt:\n\nKết nối Apple Pencil\n\n4 loa\n\nMở khóa bằng vân tay\n\nÂm thanh Dolby Atmos\n\nKết nối bàn phím rời\n\nGhi âm:\n\nCó\nRadio:\n\nKhông có\nTiện ích khác:\t\nChất liệu:\n\nKhung & Mặt lưng kim loại\nKích thước, khối lượng:\n\nDài 248.6 mm - Ngang 179.5 mm - Dày 7 mm - Nặng 477 g\nThời điểm ra mắt:\n\n10/2022\nCamera sau\t\nĐộ phân giải:\n\n12 MP\nQuay phim:\n\n4K 2160p@30fps\n\nFullHD 1080p@30fps\n\nFullHD 1080p@25fps\n\n4K 2160p@25fps\n\nHD 720p@30fps\n\n4K 2160p@60fps\n\nFullHD 1080p@60fps\n\n4K 2160p@24fps\n\nTính năng:\n\nBộ lọc màu\n\nTua nhanh thời gian (Time‑lapse)\n\nZoom kỹ thuật số\n\nQuay chậm (Slow Motion)\n\nSmart HDR 3\n\nGóc rộng\n\nToàn cảnh (Panorama)\n\nGắn thẻ địa lý\n\nCamera trước\t\nĐộ phân giải:\n\n12 MP\nTính năng:\n\nTrôi nhanh thời gian (Time Lapse)\n\nQuay video Full HD\n\nBộ lọc màu\n\nHDR\n\nPin\t\nDzung lượng pin:\n     28.6 Wh (~ 7587 mAh)\n\nLoại pin:\n\n     Li-Po\n\nCông nghệ pin:\n\nSạc pin nhanh\n\nTiết kiệm pin\n\nHỗ trợ sạc tối đa:\n\n20 W\n\nSạc kèm theo máy:\n20 W\n\nCông nghệ màn hình\t\nCông nghệ màn hình:\nRetina IPS LCD\nĐộ phân giải:\n1640 x 2360 Pixels\nMàn hình rộng:\n10.9\" - Tần số quét 60 Hz",
+      "price": "10.290.000đ",
+      "price_sale": "12.990.000đ",
+      "image": "ipad-gen-10.jpeg",
+      "gb": "128GB",
+      "id_dm": "2",
+      "id": "9dbc"
+    },
+    {
+      "id": "d207",
+      "image": "ipad-ari-4.webp",
+      "name": "iPad Air 4",
+      "price": "11.990.000đ",
+      "price_sale": "14.990.000đ",
+      "gb": "128GB",
+      "id_dm": "2",
+      "descrition": "iPad Air 2020. Màn hình Liquid Retina 10.9 inch tuyệt đẹp và công nghệ True Tone cho bạn những trải nghiệm thị giác thật dễ chịu. Chip A14 Bionic mới cùng công nghệ Neural Engine là nền tảng sức mạnh giúp bạn biên tập video 4K, soạn nhạc và giải trí cùng các trò chơi đẳng cấp, mọi tác vụ đều trở nên vô cùng đơn giản. Touch ID nhanh nhạy và dễ sử dụng với tính năng bảo mật cao, hệ thống camera hiện đại, USB-C, hỗ trợ đa dạng phụ kiện kể cả Magic Keyboard và Apple Pencil (thế hệ thứ 2).\n\nTính năng nổi bật\n\nMàn hình Liquid Retina 10.9 inch sắc nét với True Tone và dải màu rộng P3\nChip A14 Bionic với Neural Engine\nXác thực bảo mật với Touch ID\nCamera sau 12MP, camera trước FaceTime HD 7MP\nHiện có các màu Bạc, Xám Bạc, Hồng Kim, Xanh Lá và Xanh Da Trời\nÂm thanh stereo rộng\nWi-Fi 6 (802.11ax) và dữ liệu di động LTE Gigabit\nThời lượng pin lên đến 10 giờ\nCổng kết nối USB-C để sạc và kết nối phụ kiện\nHỗ trợ Magic Keyboard, Smart Keyboard Folio và Apple Pencil (thế hệ thứ 2)\niPadOS 14 mang đến cho bạn các chức năng mới được thiết kế dành riêng cho iPad\nBộ sản phẩm bao gồm \n\n  Máy tính bảng. Dây sạc. Củ sạc 20W. HDSD bảo hành điện tử 12 tháng"
+    },
+    {
+      "name": "MacBook Pro 16 M1",
+      "descrition": "MacBook Pro M1 16 Core-GPU (16 inch) mới mang đến hiệu năng cao ấn tượng cho người dùng pro. Lựa chọn M1 Pro mạnh mẽ hay M1 Max còn mạnh hơn thế để tăng tốc xử lý các luồng công việc đẳng cấp pro cùng thời lượng pin đáng kinh ngạc. Với màn hình Liquid Retina XDR 16 inch sống động và nhiều cổng kết nối chuyên nghiệp, bạn có thể làm được nhiều việc hơn bao giờ hết với MacBook Pro.\n\nTính năng nổi bật\nChip M1 Max hoặc M1 Pro do Apple thiết kế tạo ra một cú nhảy vọt về hiệu năng máy học, CPU và GPU \nCPU lên đến 10 lõi cho hiệu năng nhanh hơn đến 2x, xử lý các luồng công việc chuyên nghiệp nhanh hơn bao giờ hết\nGPU lên đến 32 lõi với tốc độ xử lý đồ họa nhanh hơn đến 4x cho các ứng dụng và game có đồ họa khủng\nNeural Engine 16 lõi cho hiệu năng máy học nhanh hơn đến 5x\nThời lượng pin lâu hơn, lên đến 21 giờ\nBộ nhớ thống nhất lên đến 64GB giúp bạn làm việc gì cũng nhanh chóng và trôi chảy\nỔ lưu trữ SSD siêu nhanh lên đến 8TB giúp mở các ứng dụng và tập tin chỉ trong tích tắc\nMàn hình Liquid Retina XDR 16 inch sắc nét với Extreme Dynamic Range và tỷ lệ tương phản cực cao\nCamera FaceTime HD 1080p với bộ xử lý tín hiệu hình ảnh tiên tiến cho các cuộc gọi video sắc nét hơn\nHệ thống âm thanh 6 loa với loa trầm khử lực\nBa micro phối hợp chuẩn studio thu giọng nói của bạn rõ hơn\nBa cổng Thunderbolt 4, cổng HDMI, khe thẻ nhớ SDXC, jack cắm tai nghe, cổng MagSafe 3\nWi-Fi 6 thế hệ mới giúp kết nối nhanh hơn\nBàn phím Magic Keyboard có đèn nền và Touch ID giúp mở khóa và thanh toán an toàn hơn\nmacOS Monterey cho phép bạn kết nối, chia sẻ và sáng tạo hơn bao giờ hết, với các bản cập nhật FaceTime\nmới đầy thú vị và Safari đã được thiết kế lại\nHiện có màu xám bạc và bạc",
+      "price": "48.990.000đ",
+      "price_sale": "73.990.000đ",
+      "image": "macbook-pro-16-m1-pro.png",
+      "gb": "1TB",
+      "id_dm": "3",
+      "id": "8483"
+    },
+    {
+      "id": "b722",
+      "image": "macbook-ari-m3.jpeg",
+      "name": "MacBook Air M3 13 inch",
+      "price": "28.990.000đ",
+      "price_sale": "32.990.000đ",
+      "gb": "256GB",
+      "id_dm": "3",
+      "descrition": "Màn hình\t\nMàn hình: 13.6 inch\nĐộ phân giải: 2560 x 1664\n\nCông nghệ màn hình:\t\n- Wide color (P3)\n- 500 nits\n- True Tone Technology\n- 1 billion colors\n\nCPU:\t\nCông nghệ CPU: Apple M3\nSố nhân: 8\nSố luồng: Hãng không công bố\nTốc độ CPU: 100GB/s memory bandwidth\nTốc độ tối đa: Hãng không công bố\nBộ nhớ đệm: Hãng không công bố\n\nĐồ họa và Âm thanh\t\nCard màn hình: Card tích hợp - 10 nhân GPU\nCông nghệ âm thanh:\n- Spatial Audio\n- 3 microphones\n- 4 Loa\n- Dolby Atmos\n\nKết nối:\t\nCổng giao tiếp:\n- MagSafe 3\n- Jack tai nghe 3.5 mm\n- 2 x Thunderbolt 3 / USB 4 (lên đến 40 Gb/s)\nKết nối không dây:\nWi-Fi 6E (802.11ax)\nBluetooth 5.3\nWebcam: Full HD Webcam\nTính năng khác: Bảo mật vân tay\nĐèn bàn phím: Đơn sắc trắng\n\nKích thước, khối lượng:\t\nKích thước, khối lượng: Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm - Nặng 1.24 kg\nChất liệu: Vỏ nhôm tái chế 100%\n\nThông tin khác\t\nThông tin Pin: Lên đến 18 giờ (Hãng công bố)\nCông suất bộ sạc: 30 W hoặc 70 W\nHệ điều hành: macOS Sonoma\nThời điểm ra mắt: 2024"
+    },
+    {
+      "name": "MacBook Pro 16 inch",
+      "descrition": "CPU:\t\nCông nghệ CPU:\n\nApple M2 Pro\nSố nhân:\n\n12\nSố luồng:\n\nHãng không công bố\nTốc độ CPU:\n\n200 GB/s memory bandwidth\nTốc độ tối đa:\n\nHãng không công bố\nBộ nhớ đệm:\n\nHãng không công bố\nBộ nhớ trong:\t\nRAM:\n\n16 GB\nTốc độ Bus RAM:\n\nHãng không công bố\nHỗ trợ RAM tối đa:\n\nKhông hỗ trợ nâng cấp\nỔ cứng:\n\n512 GB SSD\nTiện ích đặc biệt:\t\nCard màn hình:\n\nCard tích hợp - 19 nhân GPU\nCông nghệ âm thanh:\n\nWide stereo sound\n\nSpatial Audio\n\nDolby Atmos\n\nKết nối:\t\nCổng giao tiếp:\n\nHDMI\n\nJack tai nghe 3.5 mm\n\nMagSafe 3\n\n3 x Thunderbolt 4\n\nKết nối không dây:\n\nWi-Fi 6E (802.11ax)Bluetooth 5.3\nKhe đọc thẻ nhớ:\n\nSD\nWebcam:\n\n1080p FaceTime HD camera\nTính năng khác:\n\nBảo mật vân tay\nĐèn bàn phím:\n\nCó\nKích thước, khối lượng:\t\nKích thước, khối lượng:\n\nDài 355.7 mm - Rộng 248.1 mm - Dày 16.8 mm - Nặng 2.15 kg\nChất liệu:\n\nVỏ kim loại\nTiện ích khác:\t\nThông tin Pin:\n\nKhoảng 10 tiếng\nHệ điều hành:\n\nMac OS\nThời điểm ra mắt:\n\n2023\nCông nghệ màn hình\t\nMàn hình:\n\n16.2 inch\nĐộ phân giải:\n\nLiquid Retina XDR display (3456 x 2234)\nTần số quét:\n\nup to 120Hz\nCông nghệ màn hình:\n\nProMotion\n\nWide color (P3)\n\nĐộ sáng 1000 nits\n\nTrue Tone Technology\n\n1 tỷ màu",
+      "price": "67.990.000đ",
+      "price_sale": "75.990.000đ",
+      "image": "macbook-pro-16-inch-m2.jpeg",
+      "gb": "512GB",
+      "id_dm": "3",
+      "id": "e9b0"
+    },
+    {
+      "name": "iMac M3 2023 24 inch",
+      "descrition": "Tính năng màn hình\t\nMột màn hình rời có độ phân giải lên đến 6K ở tần số 60Hz\nĐầu ra DisplayPort gốc qua cổng USB-C\nHỗ trợ đầu ra VGA, HDMI, DVI và Thunderbolt 2 bằng cách sử dụng bộ tiếp hợp\n(được bán riêng)\nChip\t\nCPU 8 lõi với 4 lõi hiệu năng và 4 lõi tiết kiệm điện\nGPU 10 lõi\nCông nghệ dò tia tốc độ cao bằng phần cứng\nNeural Engine 16 lõi\nBăng thông bộ nhớ 100GB/s\nMàn Hình\t\nĐộ phân giải 4480x2520 với mật độ 218 pixel mỗi inch, hỗ trợ 1 tỷ màu\nĐộ sáng 500 nit\nDải màu rộng (P3)\nCông nghệ True Tone\nKích thước thật của màn hình theo đường chéo là 23,5 inch.\n\nCamera\t\nCamera FaceTime HD 1080p\nBộ xử lý tín hiệu hình ảnh tiên tiến với video điện toán\nXem Video\t\nCác định dạng được hỗ trợ bao gồm HEVC, H.264, AV1 và ProRes\nHDR với công nghệ Dolby Vision, HDR10 và HLG\nNghe Nhạc\t\nCác định dạng được hỗ trợ bao gồm AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus và Dolby Atmos\n\nÂm Thanh\t\nHệ thống âm thanh sáu loa có độ trung thực cao với loa trầm khử lực\nÂm thanh stereo rộng\nHỗ trợ âm thanh không gian khi phát nhạc hoặc video với Dolby Atmos\nBa micrô phối hợp chuẩn studio với tỷ lệ tín hiệu – nhiễu cao và điều hướng chùm sóng\nSạc Và Kết Nối\t\nDisplayPort\nThunderbolt 3 (lên đến 40Gb/s)\nUSB 4 (lên đến 40Gb/s)\nUSB 3.1 Gen 2 (lên đến 10Gb/s)\nHỗ trợ Thunderbolt 2, HDMI, DVI và VGA sử dụng bộ tiếp hợp (được bán riêng)\nKết Nối Không Dây\t\nWi-Fi 6E (802.11ax)\nBluetooth 5.3\nYêu Cầu Hoạt Động\t\n100–240V AC\n50Hz đến 60Hz, một pha\n10° đến 35°C\n5% đến 90% không ngưng tụ\nđược thử nghiệm ở độ cao lên đến 5000 mét\nKích Thước Và Trọng Lượng\t\n4,48 kg",
+      "price": "40.390.000đ",
+      "price_sale": "41.990.000đ",
+      "image": "imac-m3.jpeg",
+      "gb": "256GB",
+      "id_dm": "3",
+      "id": "a8bd"
+    },
+    {
+      "name": "Apple Watch Ultra 2 GPS",
+      "descrition": "Chất liệu dây:\t\n Silicone | Dây vải chuyên biệt (Alpine Loop , Trail Loop)\n\nChất liệu mặt:\t\n Kính Sapphire\n\nChất liệu khung viền:\t\nTitanium\n\nĐộ dài dây:\t\n13 - 20 cm\n\nKhả năng thay dây:\t\n Có\n\nKích thước, khối lượng:\t\nDài 49 mm - Ngang 44 mm - Dày 14.4 mm - Nặng 61.4 g\n\nSim & nghe gọi:\t\neSIM\nNghe gọi qua eSIM (nghe gọi độc lập không cần điện thoại)\nTiện ích đặc biệt:\t\nMàn hình luôn hiển thị\nNghe nhạc\nPhát hiện té ngã\nKết nối bluetooth với tai nghe\nChống nước / Kháng nước:\t\nChống nước 10 ATM (Bơi, lặn vùng nước nông)\nTheo dõi sức khoẻ:\t\nChấm điểm giấc ngủ\nNhắc nhở nhịp tim cao, thấp\nTheo dõi giấc ngủ\nTính lượng calories tiêu thụ\nTính quãng đường chạy\nĐiện tâm đồ\nĐo nhịp tim\nĐo nồng độ oxy trong máu (SpO2)\nĐếm số bước chân\nGửi thông báo khi có tai nạn\nƯớc tính ngày rụng trứng\nCảm biến nhiệt độ\nTheo dõi chu kì kinh nguyệt\nTiện ích khác:\t\nChế độ tiết kiệm năng lượng\nChứng nhận độ bền MIL-STD-810H\nMàn hình cảm ứng\nNâng cổ tay sáng màn hình\nTrợ lý giọng nói\nTính năng Family Setup\nBáo thức\nCuộc gọi khẩn cấp SOS\nDự báo thời tiết\nThay mặt đồng hồ\nTừ chối cuộc gọi\nĐiều khiển chơi nhạc\nĐồng hồ bấm giờ\nMàn hình luôn hiển thị\nChuyển vùng quốc tế\nThao tác chạm hai lần (Double Tap)\nHiển thị thông báo:\t\nCuộc gọi\nLine\nMessenger (Facebook)\nTin nhắn\nViber\nZalo\nThời gian sử dụng pin:\t\nKhoảng 36 giờ (ở chế độ sử dụng thông thường)\nKhoảng 72 giờ (Chế độ năng lượng thấp)\nDung lượng pin:\t\nđang cập nhật\n\nCổng sạc:\t\n Cáp sạc nhanh từ tính USB-C\n\nCamera:\t\nKhông có\n\nKết nối được với hệ điều hành:\t\niPhone X trở lên chạy iOS 17 trở lên\n\nCPU:\t\nApple S9\n\nKết nối:\t\nBluetooth v5.3\nGPS\nWi-Fi 4\nCảm biến:\t\nCảm biến ánh sáng môi trường\nCon quay hồi chuyển dải động cao\nCảm biến điện học (ECG)\nCảm biến nhịp tim quang học\nCảm biến nhịp tim quang học thế hệ 3\nCao áp kế\nGia tốc kế\nGalileo\nBDS\nGLONASS\nQZSS\nLa bàn\nĐo SpO2\nCông nghệ màn hình\t\n OLED\n\nMàn hình rộng\t\n 1.92 inch | 49mm\n\nĐộ phân giải màn hình\t\n 410 x 502 pixels",
+      "price": "20.890.000đ",
+      "price_sale": "23.990.000đ",
+      "image": "watch-utral-2.jpeg",
+      "gb": "49mm",
+      "id_dm": "4",
+      "id": "ff92"
+    },
+    {
+      "name": "Apple Watch Series 9",
+      "descrition": "Tên thuộc tính\tGiá trị thuộc tính\nCông nghệ màn hình:\t\nMàn hình Retina Luôn Bật\n\nĐộ sáng lên đến 2.000 nit\n\nCPU:\t\nS9 SiP\n\nThao tác chạm hai lần^\n\nTìm Chính Xác cho iPhone\n\n \n\nCảm biến:\t\nCảm biến nhiệt độ\nSOS Khẩn Cấp\nPhát Hiện Ngã và Phát Hiện Va Chạm\nChống nước / Kháng nước:\t\nChống nước khi bơi đến 50m\n\nKết nối:\t\nGPS\n\nCellular\n\n \n\nThời gian sử dụng pin:\t\nLên đến 18 giờ\nLên đến 36 giờ ở Chế Độ Nguồn Điện Thấp\nHỗ trợ sạc nhanh",
+      "price": "20.190.000đ",
+      "price_sale": "22.299.000đ",
+      "image": "watch-series-9.jpeg",
+      "gb": "45mm",
+      "id_dm": "4",
+      "id": "91fb"
+    },
+    {
+      "id": "0899",
+      "image": "watch-SE.webp",
+      "name": "Apple Watch SE Nhôm 2022 GPS",
+      "price": "6.590.000đ",
+      "price_sale": "9.990.000đ",
+      "gb": "44mm",
+      "id_dm": "4",
+      "descrition": "Kích thước màn hình:\t\nChất liệu mặt:\n\nIon-X strengthened glass\nChất liệu khung viền:\n\nHợp kim nhôm\nChất liệu dây:\n\nSilicone\nĐộ rộng dây:\n\nHãng không công bố\nĐộ dài dây:\n\nHãng không công bố\nKhả năng thay dây:\n\nCó\nKích thước, khối lượng:\n\nDài 44 mm - Ngang 38 mm - Dày 10.7 mm - Nặng 32.9 g\nDài 40 mm - Ngang 34 mm - Dày 10.7 mm - Nặng 26.4 g\nTiện ích đặc biệt:\t\nTiện ích đặc biệt:\n\nPhát hiện té ngã\n\nNghe nhạc\n\nKết nối bluetooth với tai nghe\n\nSim & nghe gọi:\n\nNghe gọi ngay trên đồng hồ\nChống nước / Kháng nước:\n\nChống nước 5 ATM - ISO 22810:2010 (Tắm, bơi vùng nước nông)\nTheo dõi sức khoẻ:\n\nGửi thông báo khi có tai nạn\n\nTính quãng đường chạy\n\nChế độ luyện tập\n\nTính lượng calories tiêu thụ\n\nTheo dõi giấc ngủ\n\nTheo dõi mức độ stress\n\nTheo dõi chu kì kinh nguyệt\n\nNhắc nhở nhịp tim cao, thấp\n\nCảm biến nhiệt độ\n\nĐo nhịp tim\n\nĐếm số bước chân\n\nTiện ích khác:\n\nNâng cổ tay sáng màn hình\n\nMàn hình cảm ứng\n\nBáo thức\n\nTừ chối cuộc gọi\n\nDự báo thời tiết\n\nLa bàn\n\nĐồng hồ bấm giờ\n\nĐiều khiển chơi nhạc\n\nRung thông báo\n\nThay mặt đồng hồ\n\nCuộc gọi khẩn cấp SOS\n\nĐiều khiển chụp ảnh\n\nChuyển vùng quốc tế\n\nHiển thị thông báo:\n\nCuộc gọi\n\nTin nhắn\n\nZalo\n\nMessenger (Facebook)\n\nLine\n\nViber\n\nCPU:\t\nCPU:\n\nApple S8\nBộ nhớ trong:\n\n32 GB\nHệ điều hành:\n\nWatchOS phiên bản mới nhất\nKết nối được với hệ điều hành:\n\niPhone 8 trở lên với iOS phiên bản mới nhất\nỨng dụng quản lý:\n\nWatch\nKết nối:\n\nBluetooth v5.3\n\nGPS\n\nWifi\n\nCảm biến:\n\nCảm biến ánh sáng môi trường\n\nCảm biến nhịp tim quang học thế hệ 2\n\nCao áp kế\n\nCon quay hồi chuyển\n\nGia tốc kế\n\nGalileo\n\nGLONASS\n\nGPS\n\nLa bàn\n\nTiện ích khác:\t\nSản xuất tại:\n\nHãng không công bố\nThời gian ra mắt:\n\n09/2022\nNgôn ngữ:\n\nTiếng AnhTiếng Việt\nHãng:\n\nApple. Xem thông tin hãng\nPin\t\nThời gian sử dụng pin:\n\nKhoảng 1.5 ngày (ở chế độ tiết kiệm pin)Khoảng 18 giờ (ở chế độ sử dụng thông thường)\nThời gian sạc:\n\nHãng không công bố\nDung lượng pin:\n\nHãng không công bố\nCổng sạc:\n\nĐế sạc nam châm"
+    },
+    {
+      "name": "Apple Watch Series 8",
+      "descrition": "Công nghệ màn hình:\t\nOLED\n\nKích thước mặt:\t\n1.9 inch\n\nKích thước màn hình:\t\n45 mm\n\nChất liệu mặt:\t\nIon-X strengthened glass\n\nChất liệu khung viền:\t\nHợp kim nhôm\n\nChất liệu dây:\t\nSilicone\n\nĐộ rộng dây:\t\nHãng không công bố\n\nĐộ dài dây:\t\nHãng không công bố\n\nKhả năng thay dây:\t\nCó\n\nKích thước, khối lượng:\t\nDài 45 mm - Ngang 38 mm - Dày 10.7 mm - Nặng 38.8g\n\nSim & nghe gọi:\t\nQua eSIM (nghe gọi độc lập không cần điện thoại)\n\nTiện ích đặc biệt:\t\nMàn hình luôn hiển thị\n\nPhát hiện té ngã\n\nKết nối bluetooth với tai nghe\n\nTheo dõi sức khoẻ:\t\nChấm điểm giấc ngủ\n\nNhắc nhở nhịp tim cao, thấp\n\nTheo dõi giấc ngủ\n\nTheo dõi mức độ stress\n\nTính lượng calories tiêu thụ\n\nTính quãng đường chạy\n\nĐiện tâm đồ\n\nĐo lượng tiêu thụ oxy tối đa (VO2 max)\n\nĐo nhịp tim\n\nĐo nồng độ oxy trong máu (SpO2)\n\nĐếm số bước chân\n\nƯớc tính ngày rụng trứng\n\nCảm biến nhiệt độ\n\nTheo dõi chu kì kinh nguyệt\n\nTiện ích khác:\t\nMàn hình cảm ứng\n\nNâng cổ tay sáng màn hình\n\nTrợ lý giọng nói\n\nTính năng Family Setup\n\nBáo thứcCuộc gọi khẩn cấp SOS\n\nDự báo thời tiếtRung thông báo\n\nThay mặt đồng hồ\n\nTừ chối cuộc gọi\n\nĐiều khiển chơi nhạc\n\nĐiều khiển chụp ảnh\n\nĐồng hồ bấm giờ\n\nMàn hình luôn hiển thị\n\nChuyển vùng quốc tế\n\nHiển thị thông báo:\t\nCuộc gọi\n\nLine\n\nMessenger (Facebook)\n\nTin nhắn\n\nViber\n\nZalo\n\nThời gian sử dụng pin:\t\nChế độ tiết kiệm pin: ~36 giờ\n\nChế độ sử dụng thông thường: ~18 giờ\n\nThời gian sạc:\t\nHãng không công bố\n\nDung lượng pin:\t\nHãng không công bố\n\nCổng sạc:\tĐế sạc nam châm\nCamera:\t\nKhông có\n\nCPU:\t\nApple S8\n\nBộ nhớ trong:\t\n32 GB\n\nHệ điều hành:\t\nWatchOS phiên bản mới\n\n \n\nKết nối:\t\nBluetooth v5.3\n\nGPS\n\nNFC\n\nWifi\n\nỨng dụng quản lý:\t\nWatch\n\nKết nối được với hệ điều hành:\t\niPhone 8 trở lên với iOS phiên bản mới\n\nCảm biến:\t\nCảm biến ánh sáng môi trường\n\nCảm biến điện học (ECG)\n\nCảm biến nhịp tim quang học thế hệ 3\n\nCao áp kế\n\nCon quay hồi chuyển\n\nGia tốc kế\n\nGalileo\n\nBDS\n\nGLONASS\n\nGPS\n\nQZSS\n\nLa bàn\n\nChống nước / Kháng nước:\t\n 5 ATM - ISO 22810:2010 (Tắm, bơi vùng nước nông)\n\nĐộ phân giải màn hình\t\n484 x 396 pixels",
+      "price": "10.590.000đ",
+      "price_sale": "15.990.000đ",
+      "image": "watch-series-8.png",
+      "gb": "45mm",
+      "id_dm": "4",
+      "id": "6d3e"
+    },
+    {
+      "name": "Apple Watch Series 7",
+      "descrition": "Apple Watch Series 7 (GPS) Màn hình Retina Luôn Bật lớn nhất, tiên tiến nhất giúp mọi tác vụ bạn thực hiện với Apple Watch Series 7 trông lớn hơn và đẹp hơn. Series 7 là Apple Watch bền bỉ nhất từng được chế tạo, với mặt trước bằng thủy tinh chống nứt tốt hơn. Các tính năng tiên tiến giúp bạn đo mức ôxi trong máu, đo điện tâm đồ (ECG) bất kỳ lúc nào, truy cập ứng dụng theo dõi giấc ngủ và ứng dụng chú tâm. Bạn cũng có thể theo dõi hàng chục bài tập thể chất, bao gồm Thái Cực Quyền và pilates mới.\n\nTính năng nổi bật\nMàn hình Retina Luôn Bật với diện tích lớn hơn Series 6 gần 20%, giúp bạn xem và sử dụng mọi thứ dễ dàng hơn\nMặt trước bằng thủy tinh chống nứt tốt nhất trên Apple Watch, đạt chuẩn chống bụi IP6X và thiết kế chống thấm nước khi bơi lội\nĐo mức ôxi trong máu bằng cảm biến và ứng dụng mạnh mẽ\nĐo điện tâm đồ (ECG) mọi lúc, mọi nơi\nNhận thông báo nhịp tim nhanh hay chậm và thông báo nhịp tim không đều\nTập trung tâm trí vào hiện tại với ứng dụng Chú Tâm mới và đạt mục tiêu ngủ đủ giấc với ứng dụng Giấc Ngủ\nTheo dõi các bài tập Thái Cực Quyền và pilates mới, cùng các bài tập yêu thích như chạy bộ, yoga, bơi lội và khiêu vũ\nTheo dõi hoạt động hàng ngày trên Apple Watch và xem xu hướng của bạn trong ứng dụng Thể Dục trên iPhone\nĐồng bộ nhạc và podcast yêu thích của bạn\nPin dùng cả ngày và sạc nhanh hơn\nwatchOS 8 ra mắt các kiểu tập luyện mới, ứng dụng Chú Tâm, mặt đồng hồ Chân Dung mới và các cải tiến đối với ứng dụng Tin Nhắn\nCác thông tin Apple đảm bảo ( Pháp lý)\n\nApple Watch Series 7 tương thích với iPhone 6s hoặc các phiên bản cao hơn sử dụng iOS 15 hoặc các bản cập nhật cao hơn. Số đo từ ứng dụng Ôxi Trong Máu không được dùng cho mục đích y tế, kể cả tự chẩn đoán hoặc xin ý kiến bác sĩ và chỉ được thiết kế cho hoạt động luyện tập thông thường và mục đích chăm sóc sức khỏe. Ứng dụng ECG chỉ khả dụng trên Apple Watch Series 4 và các phiên bản cao hơn (không bao gồm Apple Watch SE) sử dụng iOS và watchOS phiên bản mới nhất. Truy cập  để biết thông tin về khả năng tương thích. Không được sử dụng ECG cho người dưới 22 tuổi. Với ứng dụng ECG, Apple Watch có khả năng tạo ra kết quả ECG tương tự như điện tâm đồ một đạo trình. Tính năng thông báo nhịp tim không đều chỉ khả dụng trên watchOS cũng như iOS phiên bản mới nhất. Tính năng này không dành cho người dưới 22 tuổi và không được thiết kế dành cho người từng có kết quả chẩn đoán bị rung nhĩ (Afib).\n\nApple Watch Series 7 (GPS + Cellular) Với dữ liệu di động, Apple Watch Series 7 giúp bạn luôn kết nối với những người và những điều bạn quan tâm, ngay cả khi bạn không có điện thoại bên mình. Nhận cuộc gọi và trả lời tin nhắn. Nghe nhạc và podcast yêu thích trực tuyến. Nhận được sự trợ giúp nhanh chóng từ SOS Khẩn Cấp và gọi khẩn cấp quốc tế.\n\nTính năng nổi bật\nMàn hình Retina Luôn Bật với diện tích lớn hơn Series 6 gần 20%, giúp bạn xem và sử dụng mọi thứ dễ dàng hơn\nMặt trước bằng thủy tinh chống nứt tốt nhất trên Apple Watch, đạt chuẩn chống bụi IP6X và thiết kế chống thấm nước khi bơi lội\nĐo mức ôxi trong máu bằng cảm biến và ứng dụng mạnh mẽ\nĐo điện tâm đồ (ECG) mọi lúc, mọi nơi\nNhận thông báo nhịp tim nhanh hay chậm và thông báo nhịp tim không đều\nTập trung tâm trí vào hiện tại với ứng dụng Chú Tâm mới và đạt mục tiêu ngủ đủ giấc với ứng dụng Giấc Ngủ\nTheo dõi các bài tập Thái Cực Quyền và pilates mới, cùng các bài tập yêu thích như chạy bộ, yoga, bơi lội và khiêu vũ\nTheo dõi hoạt động hàng ngày trên Apple Watch và xem xu hướng của bạn trong ứng dụng Thể Dục trên iPhone\nĐồng bộ nhạc và podcast yêu thích của bạn\nPin dùng cả ngày và sạc nhanh hơn\nwatchOS 8 ra mắt các kiểu tập luyện mới, ứng dụng Chú Tâm, mặt đồng hồ Chân Dung mới và các cải tiến đối với ứng dụng Tin Nhắn\nLuôn kết nối với gia đình và bạn bè bằng cuộc gọi, tin nhắn và email, ngay cả khi bạn không có điện thoại bên mình\nNghe nhạc và podcast trực tuyến khi đang di chuyển, và cứ để điện thoại ở nhà",
+      "price": "8.890.000đ",
+      "price_sale": "14.990.000đ",
+      "image": "watch-series-7.webp",
+      "gb": "44mm",
+      "id_dm": "4",
+      "id": "233c"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "danh_muc": "iPhone"
+    },
+    {
+      "id": "2",
+      "danh_muc": "iPad"
+    },
+    {
+      "id": "3",
+      "danh_muc": "MacBook"
+    },
+    {
+      "id": "4",
+      "danh_muc": "Watch"
+    }
+  ]
+}
